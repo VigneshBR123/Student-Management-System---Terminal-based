@@ -1,0 +1,6 @@
+[1, 'Vignesh BR', 23, 'MBA', 'Marthandam']
+
+[2, 'Abina BR', 21, 'BE', 'Melpuram']
+
+[3, 'Abin MS', '14', 'Pre School', 'Block Office']
+
